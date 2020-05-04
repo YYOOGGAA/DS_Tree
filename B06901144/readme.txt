@@ -28,14 +28,6 @@ output/   	STree.txt
 output/   	STree_boundary.txt
 output/   	STree_PRep.txt
 
-makefile
-tree 		執行檔
-report.docx
-
-======
-HOW TO CIMPILE:
-
-To compile the demo, simply type make.
 ======
 HOW TO RUN:
 
